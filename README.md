@@ -6,7 +6,6 @@ Curriculum Vitae
     <meta charset="utf-8">
     <meta name="viewport" content="widt=device-width,user-scalable=no">
     <meta name="author" content="Matías Larenas">
-    <title>Hoja de vida</title>
   </head>
   <body>
   <header>
